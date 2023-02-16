@@ -36,8 +36,8 @@
   font-weight: bold;
   color: white;
   background-color: #940dd2;
-  padding: 0.3rem;
-  border-radius: 30px;
+  padding: 5px;
+  border-radius: 20px;
 }
 
 @media (min-width: 580px) {
